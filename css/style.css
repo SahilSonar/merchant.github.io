@@ -7,7 +7,7 @@ body {
   min-height: 100vh;
   flex-direction: column;
 
-  background-image: url('../images/blue-grey.png');
+  background-color:  #1e1e1e;
   background-attachment: fixed;
   background-size: cover;
 }
